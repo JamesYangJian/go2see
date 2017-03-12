@@ -1,0 +1,7 @@
+tags
+*.o
+*.bak
+*~
+core.*
+*.d
+*.swp
